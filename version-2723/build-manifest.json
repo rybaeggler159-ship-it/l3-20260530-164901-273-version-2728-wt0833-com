@@ -1,0 +1,20 @@
+{
+  "site_title": "推荐电影-站内精选影片片单合集-高清影片在线观看",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "html_pages": 2014,
+  "video_source_count": 20,
+  "generated_files": [
+    "index.html",
+    "categories.html",
+    "rank.html",
+    "search.html",
+    "categories/*.html",
+    "videos/*.html",
+    "assets/site.css",
+    "assets/site.js",
+    "sitemap.xml",
+    "robots.txt"
+  ]
+}
